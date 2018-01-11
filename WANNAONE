@@ -1,0 +1,27 @@
+<!doctype html>
+<html>
+<head>
+  <title>WANNAONE - HTML</title>
+  <meta charset="utf-8">
+</head>
+<body>
+ <h1><a href="WANNAONE.html">WANNAONE</a></h1>
+ <ol>
+  <li><a href="1.html">박지훈</a></li>
+  <li><a href="1.html">강다니엘</a></li>
+  <li><a href="1.html">옹성우</a></li>
+  <li><a href="1.html">황민현</a></li>
+  <li><a href="1.html">하성운</a></li>
+  <li><a href="1.html">김재환</a></li>
+  <li><a href="1.html">라이관린</a></li>
+  <li><a href="1.html">이대휘</a></li>
+  <li><a href="1.html">배진영</a></li>
+  <li><a href="1.html">박우진</a></li>
+  <li><a href="1.html">윤지성</a></li>
+ </ol>
+ <h2>Beautiful</h2>
+ <p>
+ <iframe width="560" height="315" src="https://www.youtube.com/embed/o4_tHTmniw4" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+ <h2>I Wanna have</h2>
+ <p>
+ <iframe width="560" height="315" src="https://www.youtube.com/embed/JE_4bqdayjQ" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
